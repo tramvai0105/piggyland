@@ -1,7 +1,7 @@
 {
   "files": {
-    "main.css": "/piggyland/static/css/main.a168682f.css",
-    "main.js": "/piggyland/static/js/main.aa849ece.js",
+    "main.css": "/piggyland/static/css/main.32159ddc.css",
+    "main.js": "/piggyland/static/js/main.c1567ffa.js",
     "static/media/elvis5.png": "/piggyland/static/media/elvis5.ed9cfda33f0c61e0bda8.png",
     "static/media/elvis3.jpg": "/piggyland/static/media/elvis3.63e496984dad3abccf5a.jpg",
     "static/media/elvis2.jpg": "/piggyland/static/media/elvis2.d87380ce762616a6dc13.jpg",
@@ -20,11 +20,11 @@
     "static/media/plane.png": "/piggyland/static/media/plane.c211a1658e73aec813e8.png",
     "static/media/pig-nose-svgrepo-com.png": "/piggyland/static/media/pig-nose-svgrepo-com.503692071a456f176c99.png",
     "index.html": "/piggyland/index.html",
-    "main.a168682f.css.map": "/piggyland/static/css/main.a168682f.css.map",
-    "main.aa849ece.js.map": "/piggyland/static/js/main.aa849ece.js.map"
+    "main.32159ddc.css.map": "/piggyland/static/css/main.32159ddc.css.map",
+    "main.c1567ffa.js.map": "/piggyland/static/js/main.c1567ffa.js.map"
   },
   "entrypoints": [
-    "static/css/main.a168682f.css",
-    "static/js/main.aa849ece.js"
+    "static/css/main.32159ddc.css",
+    "static/js/main.c1567ffa.js"
   ]
 }
