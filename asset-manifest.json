@@ -1,0 +1,29 @@
+{
+  "files": {
+    "main.css": "/piggyland/static/css/main.0c602c3f.css",
+    "main.js": "/piggyland/static/js/main.9a846db3.js",
+    "static/media/elvis5.png": "/piggyland/static/media/elvis5.ed9cfda33f0c61e0bda8.png",
+    "static/media/elvis3.jpg": "/piggyland/static/media/elvis3.63e496984dad3abccf5a.jpg",
+    "static/media/elvis2.jpg": "/piggyland/static/media/elvis2.d87380ce762616a6dc13.jpg",
+    "static/media/pighouse.jpg": "/piggyland/static/media/pighouse.458f92ce16dc947e3ca2.jpg",
+    "static/media/gang.jpg": "/piggyland/static/media/gang.4f85053afad7af594e05.jpg",
+    "static/media/crown.png": "/piggyland/static/media/crown.b59ad7de53200e692708.png",
+    "static/media/Real-pigs-21-10-2023 (1).png": "/piggyland/static/media/Real-pigs-21-10-2023 (1).7cb70e4eff481de31b12.png",
+    "static/media/wow.png": "/piggyland/static/media/wow.2ede13f2b3625037c54d.png",
+    "static/media/elvis4.jpg": "/piggyland/static/media/elvis4.211b98a3eb944a9f72de.jpg",
+    "static/media/ppp.jpg": "/piggyland/static/media/ppp.f08d51887f1c4cc04ca1.jpg",
+    "static/media/samka.jpg": "/piggyland/static/media/samka.5b90f6d85f89d0197272.jpg",
+    "static/media/glasses.png": "/piggyland/static/media/glasses.da962024d06926a9ca17.png",
+    "static/media/idiot.jpg": "/piggyland/static/media/idiot.859137b4fb5abf2c7bb4.jpg",
+    "static/media/piggy.jpg": "/piggyland/static/media/piggy.939b7563ed9d7a47eb4f.jpg",
+    "static/media/hand.svg": "/piggyland/static/media/hand.79e8319bfff5339b013194ac79efe061.svg",
+    "static/media/pig-nose-svgrepo-com.png": "/piggyland/static/media/pig-nose-svgrepo-com.503692071a456f176c99.png",
+    "index.html": "/piggyland/index.html",
+    "main.0c602c3f.css.map": "/piggyland/static/css/main.0c602c3f.css.map",
+    "main.9a846db3.js.map": "/piggyland/static/js/main.9a846db3.js.map"
+  },
+  "entrypoints": [
+    "static/css/main.0c602c3f.css",
+    "static/js/main.9a846db3.js"
+  ]
+}
